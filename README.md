@@ -2,6 +2,9 @@
 ## Overview
 Predictive equations for respiratory mechanics parameters in laboratory rats, enabling calculation of predicted values, z-scores, and reference percentiles.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17055086.svg)](https://doi.org/10.5281/zenodo.17055086)
+
+
 **Status**: Manuscript under review.
 
 ## Citation
