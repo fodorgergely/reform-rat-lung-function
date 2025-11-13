@@ -11,6 +11,9 @@ Predictive equations for respiratory mechanics parameters in laboratory rats, en
 If you use this calculator, please cite:
 > Fodor GH et al. Standardized lung function reference values in rats for translational respiratory research. *(under review)*. 2025.
 
+## Grant support
+This work was supported by the National Research, Development and Innovation Office of Hungary in the form of two grants: OTKA-NKFIH FK134274 and K138032.
+
 ## Quick Start
 ```r
 # Load required packages
